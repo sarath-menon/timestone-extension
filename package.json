@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "timestone-extension.helloWorld",
-        "title": "Hello World"
+        "command": "timestone-extension.launch",
+        "title": "Launch timestone"
       }
     ]
   },
